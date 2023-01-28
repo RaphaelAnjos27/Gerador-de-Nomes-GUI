@@ -9,3 +9,5 @@ Antes de executar o progeto você deve criar um ambiente virtual para o mesmo e 
 1. Criar Ambiente Virtual: `python3 -m venv venv` 
 2. Entrar no Ambiente: `source venv/bin/activate`
 3. Instalar dependências: `pip install -r requirements.txt`
+
+![print do projeto](print/screenchot02.png)
